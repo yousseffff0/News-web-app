@@ -1,0 +1,9 @@
+POST http://localhost:3001/publishers
+Content-Type: application/json
+
+{
+    "name": "sandy",
+    "password": "123456",
+    "profilePic": "6666666666",
+    "draft": "lhjsblahjb"
+}

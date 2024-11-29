@@ -1,0 +1,10 @@
+POST http://localhost:3001/drafts
+Content-Type: application/json
+
+{
+    "description": "thirddraft",
+    "publishdate": "3/10/2024",
+    "keyword": "666666666",
+    "imgurl": "araaf",
+    "publisherId":"65615d083e76ec0fa9ffc66e"
+}

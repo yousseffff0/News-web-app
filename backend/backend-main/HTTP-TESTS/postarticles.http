@@ -1,0 +1,10 @@
+POST http://localhost:3001/article
+Content-Type: application/json
+
+{
+    "description": "seventh article",
+    "publishdate": "12/24/2023",
+    "keyword": "fashion",
+    "imgurl": "null",
+    "publisherId": "657286ff0f63f6c97ce954b5"
+}
